@@ -1,0 +1,698 @@
+﻿OBJECTID,objectid_1,ia_no,subject_id,incident_type,county_location,occurred_date,type_force_used,subject_resistence,officer_condition_injury,subject_sex,subject_race,disposition,status,subject_injury
+1,0,RR-0000051,subject_9612685,Use of Force,AD2,20201216,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Completed,
+2,1,UOF2021-001,subject_9612464,Use of Force,AC1,20210101,Physical Force-Restr.,Passive Resistance,,Female,Black,Within Policy,Completed,
+3,2,UOF2021-002,subject_9612529,Use of Force,AD1,20210102,Phsysical Force,Active Resistance,,Male,White,Within Policy,Completed,
+4,3,UOF2021-003,subject_9612532,Use of Force,AB3,20210104,Phsysical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+5,4,UOF2021-004,subject_961794,Use of Force,AA4,20210105,Physical Force-Struggle,Active Resistance,Minor Injury,Male,Black,Within Policy,Completed,Treated at hospital
+6,5,UOF2021-005,subject_9612326,Use of Force,AC3,20210106,Physical Force-Push Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+7,6,UOF2021-005,subject_9612326,Use of Force,AC3,20210106,Physical Force-Push Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+8,7,UOF2021-005,subject_9612326,Use of Force,AC3,20210106,Physical Force-Push Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+9,8,UOF2021-006,subject_9612534,Use of Force,AB1,20210107,Physical Force-Restr.,Assaultive,,Male,Black,Within Policy,Completed,
+10,9,UOF2021-006,subject_9612534,Use of Force,AB1,20210107,Physical Force-Restr.,Assaultive,,Male,Black,Within Policy,Completed,
+11,10,UOF2021-006,subject_9612534,Use of Force,AB1,20210107,Physical Force-Restr.,Assaultive,,Male,Black,Within Policy,Completed,
+12,11,UOF2021-006,subject_9612534,Use of Force,AB1,20210107,Physical Force-Restr.,Assaultive,,Male,Black,Within Policy,Completed,
+13,12,UOF2021-010,subject_9612537,Use of Force,AB3,20210109,Physical Force-Struggle,Active Resistance,,Female,White,Within Policy,Completed,
+14,13,UOF2021-011,subject_9612540,Use of Force,AC1,20210111,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury
+15,14,UOF2021-011,subject_9612540,Use of Force,AC1,20210111,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury
+16,15,UOF2021-011,subject_9612540,Use of Force,AC1,20210111,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury
+17,16,UOF2021-011,subject_9612540,Use of Force,AC1,20210111,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury
+18,17,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+19,18,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+20,19,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+21,20,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+22,21,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+23,22,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+24,23,UOF2021-013,subject_9612542,Use of Force,AA4,20210112,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+25,24,UOF2021-014,subject_9612544,Use of Force,AA1,20210113,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+26,25,UOF2021-014,subject_9612544,Use of Force,AA1,20210113,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+27,26,UOF2021-014,subject_9612544,Use of Force,AA1,20210113,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+28,27,UOF2021-014,subject_9612544,Use of Force,AA1,20210113,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+29,28,UOF2021-014,subject_9612544,Use of Force,AA1,20210113,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+30,29,UOF2021-015,subject_9612548,Use of Force,AD4,20210117,Physical Force-Restr.,Assaultive,,Female,White,Within Policy,Completed,
+31,30,UOF2021-015,subject_9612548,Use of Force,AD4,20210117,Physical Force-Restr.,Assaultive,,Female,White,Within Policy,Completed,
+32,31,UOF2021-019,subject_9612555,Use of Force,AA4,20210122,Physical Force-Restr.,Passive Resistance,,Female,White,Within Policy,Completed,
+33,32,UOF2021-020,subject_96160,Use of Force,AA3,20210122,Physical Force-Struggle,"Aggessive, Assaultive Resistance",,Male,Black,Within Policy,Completed,
+34,33,UOF2021-021,subject_9612574,Use of Force,AA4,20210123,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+35,34,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+36,35,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+37,36,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+38,37,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+39,38,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+40,39,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+41,40,UOF2021-025,subject_9612380,Use of Force,AA4,20210128,"Physical Force- Struggle, Physical Force Restr., Physical Force-Push","Active Resistance, Assaultive Resistance, Aggressive Resistance",,Male,Black,Within Policy,Completed,
+42,41,UOF2021-026,subject_9612567,Use of Force,AA4,20210131,Physical Force-Restr.,Active Resistance,,Male,Black,Within Policy,Completed,
+43,42,RR-0000083,subject_961,Use of Force,AA4,20210131,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Completed,
+44,43,UOF2021-028,subject_9612571,Use of Force,AB1,20210203,Physical Force,Assaultive,Officer Injured-Treated at hospital,Male,White,Within Policy,Completed,
+45,44,UOF2021-028,subject_9612571,Use of Force,AB1,20210203,Physical Force-Restr.,Assaultive,,Male,White,Within Policy,Completed,
+46,45,UOF2021-028,subject_9612571,Use of Force,AB1,20210203,Physical Force-Restr.,Assaultive,,Male,White,Within Policy,Completed,
+47,46,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+48,47,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+49,48,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+50,49,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+51,50,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+52,51,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+53,52,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+54,53,UOF2021-032,subject_9612577,Use of Force,AC1,20210207,Physical Force,Assaultive,,Male,White,Within Policy,Completed,
+55,54,UOF2021-033,subject_9612578,Use of Force,AC1,20210207,Physical Force-Struggle,Assaultive,,Female,White,Within Policy,Completed,
+56,55,UOF2021-033,subject_9612578,Use of Force,AC1,20210207,Physical Force-Struggle,Assaultive,,Female,White,Within Policy,Completed,
+57,56,UOF2021-034,subject_9612326,Use of Force,AC1,20210209,"Physical Force-Struggle, Physical Force-Restr., Physical Force-Push",Active Resistance,,Male,White,Within Policy,Completed,
+58,57,UOF2021-034,subject_9612326,Use of Force,AC1,20210209,"Physical Force-Struggle, Physical Force-Restr., Physical Force-Push",Active Resistance,,Male,White,Within Policy,Completed,
+59,58,UOF2021-034,subject_9612326,Use of Force,AC1,20210209,"Physical Force-Struggle, Physical Force-Restr., Physical Force-Push",Active Resistance,,Male,White,Within Policy,Completed,
+60,59,UOF2021-034,subject_9612326,Use of Force,AC1,20210209,"Physical Force-Struggle, Physical Force-Restr., Physical Force-Push",Active Resistance,,Male,White,Within Policy,Completed,
+61,60,UOF2021-035,subject_9611393,Use of Force,AB4,20210212,Physical Force-Restr.,"Assaultive, Aggressive Resistance",,Male,White,Within Policy,Completed,
+62,61,UOF2021-035,subject_9611393,Use of Force,AB4,20210212,Physical Force-Restr.,"Assaultive, Aggressive Resistance",,Male,White,Within Policy,Completed,
+63,62,UOF2021-035,subject_9611393,Use of Force,AB4,20210212,Physical Force-Restr.,"Assaultive, Aggressive Resistance",,Male,White,Within Policy,Completed,
+64,63,UOF2021-035,subject_9611393,Use of Force,AB4,20210212,Physical Force-Restr.,"Assaultive, Aggressive Resistance",,Male,White,Within Policy,Completed,
+65,64,UOF2021-036,subject_9612584,Use of Force,AB1,20210212,Physical Force-Restr.,Active Resistance,,Female,White,Within Policy,Completed,
+66,65,UOF2021-038,subject_9612589,Use of Force,AA3,20210217,Physical Force-Restr.,Passive Resistance,,Male,White,Within Policy,Completed,
+67,66,RR-0000103,subject_9613044,Use of Force,AA4,20210224,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+68,67,UOF2021-039,subject_9612595,Use of Force,AB1,20210225,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+69,68,UOF2021-039,subject_9612595,Use of Force,AB1,20210225,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+70,69,UOF2021-039,subject_9612595,Use of Force,AB1,20210225,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+71,70,UOF2021-039,subject_9612595,Use of Force,AB1,20210225,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+72,71,UOF2021-040,subject_9612598,Use of Force,AD4,20210302,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+73,72,UOF2021-041,subject_9612600,Use of Force,AA3,20210302,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+74,73,UOF2021-041,subject_9612600,Use of Force,AA3,20210302,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+75,74,UOF2021-041,subject_9612600,Use of Force,AA3,20210302,Physical Force-Knee Strike(s),Active Resistance,,Male,White,Within Policy,Completed,
+76,75,UOF2021-042,subject_9612603,Use of Force,AD4,20210305,Physical Force-Restr.,Aggressive Resistance,,Male,White,Within Policy,Completed,
+77,76,UOF2021-043,subject_9612614,Use of Force,AB1,20210309,Physical Force-Restr.,Aggressive Resistance,,Male,White,Within Policy,Completed,
+78,77,UOF2021-043,subject_9612614,Use of Force,AB1,20210309,Physical Force-Restr.,Aggressive Resistance,,Male,White,Within Policy,Completed,
+79,78,UOF2021-043,subject_9612614,Use of Force,AB1,20210309,Physical Force-Restr.,Aggressive Resistance,,Male,White,Within Policy,Completed,
+80,79,UOF2021-044,subject_9612617,Use of Force,AB4,20210309,"Physical Force-Struggle, Physical Force-Restr.",Active Resistance,,Male,White,Within Policy,Completed,
+81,80,UOF2021-045,subject_9612618,Use of Force,AD4,20210311,Physical Force-Struggle,Passive Resistance,,Female,White,Within Policy,Completed,
+82,81,UOF2021-046,subject_9612622,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+83,82,UOF2021-046,subject_9612622,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+84,83,UOF2021-046,subject_9612622,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+85,84,UOF2021-046,subject_9612622,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+86,85,UOF2021-046,subject_9612623,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+87,86,UOF2021-046,subject_9612623,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+88,87,UOF2021-046,subject_9612623,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+89,88,UOF2021-046,subject_9612623,Use of Force,AA1,20210315,Physical Force-Restr.,Active Resistance,,Male,Hispanic,Within Policy,Completed,
+90,89,UOF2021-048,subject_9612629,Use of Force,AB3,20210319,Phsysical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+91,90,UOF2021-049,subject_9611813,Use of Force,AC1,20210320,Physical Force,Passive Resistance,,Male,White,Within Policy,Completed,
+92,91,UOF2021-050,subject_9612512,Use of Force,AC3,20210324,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+93,92,UOF2021-050,subject_9612512,Use of Force,AC3,20210324,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+94,93,UOF2021-050,subject_9612512,Use of Force,AC3,20210324,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+95,94,UOF2021-050,subject_9612512,Use of Force,AC3,20210324,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+96,95,UOF2021-050,subject_9612512,Use of Force,AC3,20210324,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+97,96,UOF2021-051,subject_9611393,Use of Force,AA2,20210327,,"Assaultvie Resistance, Aggressive Resistance, Active Resistance",Officer Injured,Male,White,Within Policy,Completed,
+98,97,UOF2021-051,subject_9611393,Use of Force,AA2,20210327,,"Assaultvie Resistance, Aggressive Resistance, Active Resistance",Officer Injured,Male,White,Within Policy,Completed,
+99,98,UOF2021-051,subject_9611393,Use of Force,AA2,20210327,,"Assaultvie Resistance, Aggressive Resistance, Active Resistance",Officer Injured,Male,White,Within Policy,Completed,
+100,99,UOF2021-051,subject_9611393,Use of Force,AA2,20210327,,"Assaultvie Resistance, Aggressive Resistance, Active Resistance",Officer Injured,Male,White,Within Policy,Completed,
+101,100,UOF2021-051,subject_9611393,Use of Force,AA2,20210327,,"Assaultvie Resistance, Aggressive Resistance, Active Resistance",Officer Injured,Male,White,Within Policy,Completed,
+102,101,UOF2021-052,subject_9612635,Use of Force,AD4,20210327,"Physical Force, Taser Deployment","Active Resistance, Aggressive Resistance",Officer Injured,Male,Black,Within Policy,Completed,
+103,102,UOF2021-052,subject_9612635,Use of Force,AD4,20210327,"Physical Force, Taser Deployment","Active Resistance, Aggressive Resistance",Officer Injured,Male,Black,Within Policy,Completed,
+104,103,UOF2021-052,subject_9612635,Use of Force,AD4,20210327,"Physical Force, Taser Deployment","Active Resistance, Aggressive Resistance",Officer Injured,Male,Black,Within Policy,Completed,
+105,104,UOF2021-052,subject_9612635,Use of Force,AD4,20210327,"Physical Force, Taser Deployment","Active Resistance, Aggressive Resistance",Officer Injured,Male,Black,Within Policy,Completed,
+106,105,UOF2021-053,subject_961878,Use of Force,AC3,20210330,"Physical Force-Push, Physical Force-Restr.",Active Resistance,,Male,Black,Within Policy,Completed,
+107,106,UOF2021-054,subject_9612649,Use of Force,AA4,20210401,Other,Active Resistance,,Male ,Black,Within Policy,Completed,
+108,107,UOF2021-055,subject_9612643,Use of Force,AC1,20210406,Physical Force-Restr.,Passive Resistance,,Male,White,Within Policy,Completed,
+109,108,UOF2021-056,subject_9612645,Use of Force,AC3,20210406,Physical Force-Struggle,Active Resistance,,Female,White,Within Policy,Completed,
+110,109,UOF2021-057,subject_9612635,Use of Force,AB4,20210407,Taser Deployment,"Active Resistance, Assaultive",,Male,Black,Within Policy,Completed,
+111,110,UOF2021-058,subject_9612464,Use of Force,AC1,20210409,Physical Force,Active Resistance,,Female,Black,Within Policy,Completed,
+112,111,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+113,112,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+114,113,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+115,114,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+116,115,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+117,116,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+118,117,UOF2021-059,subject_9612648,Use of Force,AB4,20210409,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+119,118,UOF2021-060,subject_9612652,Use of Force,AA4,20210413,Physical Force-Restraing,Active Resistance,,Male,White,Within Policy,Completed,
+120,119,UOF2021-060,subject_9612652,Use of Force,AA4,20210413,Physical Force-Restraing,Active Resistance,,Male,White,Within Policy,Completed,
+121,120,UOF2021-060,subject_9612652,Use of Force,AA4,20210413,Physical Force-Restraing,Active Resistance,,Male,White,Within Policy,Completed,
+122,121,UOF2021-062,subject_9612662,Use of Force,AB3,20210416,Physical Force-Restr.,Passive Resistance,,Male,White,Within Policy,Completed,
+123,122,UOF2021-104,subject_9612723,Use of Force,AC1,20210416,Physical Force-Push,Assaultive,,Male,White,Within Policy,Completed,
+124,123,UOF2021-105,subject_9612654,Use of Force,AC1,20210416,Physical Force-Restr.,Passive Resistance,,Female ,White,Within Policy,Completed,
+125,124,UOF2021-106,subject_9612722,Use of Force,AC1,20210416,Physical Force,Passive Resistance,,Male ,White,Within Policy,Completed,
+126,125,UOF2021-061,subject_9612655,Use of Force,AB1,20210418,Physical Force-Push,Active Resistance,,Male,White,Within Policy,Completed,
+127,126,UOF2021-063,subject_9612658,Use of Force,AA1,20210421,Physical Force,Active Resistance,,Female,White,Within Policy,Completed,
+128,127,UOF2021-064,subject_9612663,Use of Force,AC3,20210422,Other,Passive Resistance,,Female,White,Within Policy,Completed,
+129,128,UOF2021-065,subject_9612664,Use of Force,AC1,20210423,Physcial Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+130,129,UOF2021-065,subject_9612664,Use of Force,AC1,20210423,Physcial Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+131,130,UOF2021-066,subject_9612675,Use of Force,AA4,20210430,Physical Force-Struggle,Assaultive,,Male,White,Within Policy,Completed,
+132,131,UOF2021-067,subject_9612054,Use of Force,AA4,20210430,Physical Force-Restr.,Active Resistance,,Male,Black,Within Policy,Completed,
+133,132,UOF2021-067,subject_9612054,Use of Force,AA4,20210430,Physical Force-Restr.,Active Resistance,,Male,Black,Within Policy,Completed,
+134,133,UOF2021-067,subject_9612054,Use of Force,AA4,20210430,Physical Force-Restr.,Active Resistance,,Male,Black,Within Policy,Completed,
+135,134,UOF2021-068,subject_9612675,Use of Force,AA1,20210430,Physical Force-Restr.,Assaultive,,Male,White,Within Policy,Completed,
+136,135,UOF2021-068,subject_9612675,Use of Force,AA1,20210430,Physical Force-Restr.,Assaultive,,Male,White,Within Policy,Completed,
+137,136,UOF2021-069,subject_9612676,Use of Force,AB4,20210430,Physical Force-Struggle,Assaultive,,Male,White,Within Policy,Completed,
+138,137,UOF2021-069,subject_9612676,Use of Force,AB4,20210430,Physical Force-Struggle,Assaultive,,Male,White,Within Policy,Completed,
+139,138,UOF2021-070,subject_9612678,Use of Force,AA4,20210501,Physical Force,Active Resistance,,Male,White,Within Policy,Completed,
+140,139,UOF2021-071,subject_9612654,Use of Force,AB1,20210505,Physical Force-Push,Active Resistance,,Female,White,Within Policy,Completed,
+141,140,UOF2021-072,subject_9612684,Use of Force,AB3,20210505,Physical Force-Restr.,Assaultive,,White,Male,Within Policy,Completed,
+142,141,UOF2021-073,subject_9612685,Use of Force,AD3,20210505,Physical Force-Stuggle,Passive Resistance,,White,Female,Within Policy,Completed,
+143,142,UOF2021-074,subject_9612688,Use of Force,AB1,20210507,Phsysical Force-Struggle,Active Resistance,,Male ,Black,Within Policy,Completed,
+144,143,UOF2021-074,subject_9612688,Use of Force,AB1,20210507,Phsysical Force-Struggle,Active Resistance,,Male ,Black,Within Policy,Completed,
+145,144,UOF2021-075,subject_9612689,Use of Force,AC1,20210509,Physical Force-Struggle,Aggressive Resistance,Officer Injured,Male,Black,Within Policy,Completed,
+146,145,UOF2021-075,subject_9612689,Use of Force,AC1,20210509,Physical Force-Struggle,Aggressive Resistance,Officer Injured,Male,Black,Within Policy,Completed,
+147,146,UOF2021-075,subject_9612689,Use of Force,AC1,20210509,Physical Force-Struggle,Aggressive Resistance,Officer Injured,Male,Black,Within Policy,Completed,
+148,147,UOF2021-076,subject_9612167,Use of Force,AA4,20210509,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+149,148,UOF2021-076,subject_9612167,Use of Force,AA4,20210509,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+150,149,UOF2021-076,subject_9612167,Use of Force,AA4,20210509,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+151,150,UOF2021-076,subject_9612167,Use of Force,AA4,20210509,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+152,151,UOF2021-076,subject_9612167,Use of Force,AA4,20210509,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+153,152,UOF2021-077,subject_961934,Use of Force,AC1,20210511,Physical Force-Push,Active Resistance,,Male,White,Within Policy,Completed,
+154,153,UOF2021-078,subject_9612702,Use of Force,AD1,20210519,Physical Force-Struggle,Passive Resistance,,Male,Black,Within Policy,Completed,
+155,154,UOF2021-079,subject_9612703,Use of Force,AB1,20210521,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+156,155,UOF2021-079,subject_9612703,Use of Force,AB1,20210521,Physical Force-Restr.,Active Resistance,Ofifcer Injured,Male,White,Within Policy,Completed,
+157,156,UOF2021-080,subject_9612609,Use of Force,AA4,20210523,Physical Force,Passive Resistance,,Male,White,Within Policy,Completed,
+158,157,UOF2021-081,subject_9612704,Use of Force,AD1,20210523,Physical Force-Struggle,Active Resistance,,Female,Black,Within Policy,Completed,
+159,158,UOF2021-082,subject_9612706,Use of Force,AC1,20210526,Taser Deployment,Assaultive,,Male,White,Within Policy,Completed,
+160,159,UOF2021-082,subject_9612706,Use of Force,AC1,20210526,Taser Deployment,Assaultive,,Male,White,Within Policy,Completed,
+161,160,UOF2021-083,subject_9612709,Use of Force,AC1,20210527,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+162,161,UOF2021-083,subject_9612709,Use of Force,AC1,20210527,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+163,162,UOF2021-084,subject_9612710,Use of Force,AB3,20210530,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+164,163,UOF2021-085,subject_9612712,Use of Force,,20210530,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury-No Treatment
+165,164,UOF2021-086,subject_9612713,Use of Force,AD4,20210530,Taser Deployment,Active Resistance,,Male,Black,Within Policy,Completed,
+166,165,UOF2021-087,subject_9612715,Use of Force,AB1,20210601,Physical Force,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury-No Treatment
+167,166,UOF2021-088,subject_9612717,Use of Force,AB2,20210602,Physical Force-Struggle,Actvie Resistance,,Male,Black,Within Policy,Completed,
+168,167,UOF2021-089,subject_9612718,Use of Force,AB3,20210603,Physical Force-Push,Active Resistance,,Male,White,Within Policy,Completed,
+169,168,UOF2021-090,subject_9612654,Use of Force,AA4,20210603,Physical Force,Passive Resistance,,Female,White,Within Policy,Completed,
+170,169,UOF2021-091,subject_9612721,Use of Force,AB1,20210606,Taser Deployment,Assaultive,Officer Injured,Male,White,Within Policy,Completed,
+171,170,UOF2021-092,subject_9612730,Use of Force,AA4,20210611,Physical Force-Struggle,Active Resistance,Minor Injury,Male,Hispanic,Within Policy,Completed,Minor Injuires-No Treatment
+172,171,UOF2021-093,subject_9612588,Use of Force,AC1,20210612,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+173,172,UOF2021-094,subject_9612732,Use of Force,AB3,20210614,Physical Force-Struggle,Active Resistance,,Male,White,Not Within Policy,Completed,Minor Injury-Treated at scene
+174,173,UOF2021-107,subject_9612645,Use of Force,AA1,20210617,Physical Force-Restr.,Active Resistance,,Female,White,Within Policy,Completed,
+175,174,UOF2021-095,subject_9612735,Use of Force,AA1,20210619,Physical Force-Struggle,Active Resistance,,Female,White,Within Policy,Completed,Minor Injury-No Treatment
+176,175,UOF2021-095,subject_9612736,Use of Force,AA1,20210619,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+177,176,UOF2021-096,subject_9612745,Use of Force,AB1,20210623,Physical Force-Push,Passive Resistance,,Male,White,Within Policy,Completed,
+178,177,UOF2021-097,subject_9612739,Use of Force,AC1,20210625,Physical Force-Push,Active Resistance,,Male,White,Within Policy,Completed,
+179,178,UOF2021-098,subject_961692,Use of Force,AA4,20210628,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury-No Treatment
+180,179,UOF2021-099,subject_9612742,Use of Force,AC1,20210701,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+181,180,UOF2021-100,subject_9612743,Use of Force,AB1,20210702,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+182,181,UOF2021-101,subject_9612746,Use of Force,AC1,20210704,Physical Force-Struggle,Active Resistance,,Male,Black,Within Policy,Completed,
+183,182,UOF2021-101,subject_9612747,Use of Force,AC1,20210704,Taser Deployment,Assaultive,,Male,Black,Within Policy,Completed,
+184,183,UOF2021-102,subject_9612748,Use of Force,AD4,20210705,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,Minor Injury-No Treatment
+185,184,UOF2021-103,subject_9612749,Use of Force,AA2,20210706,Physical Force-Restr.,Passive Resistance,,Male,White,Within Policy,Completed,
+186,185,UOF2021-108,subject_9612755,Use of Force,AB4,20210714,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+187,186,UOF2021-109,subject_9612756,Use of Force,AC1,20210714,Physical Force-Struggle,Passive Resistance,,Female,White,Within Policy,Completed,
+188,187,UOF2021-110,subject_9611111,Use of Force,AC3,20210717,Physical Force-Restr.,Active Resistance,Officer Injured,Male,White,Within Policy,Completed,Minor Injury-No Treatment
+189,188,UOF2021-111,subject_9612770,Use of Force,AA4,20210717,Physical Force-Restr.,Passive Resistance,,Male ,White,Within Policy,Completed,
+190,189,UOF2021-112,subject_9612763,Use of Force,AB3,20210722,Physical Force-Restr.,Passive Resistance,,Male,White,Within Policy,Completed,Minor Injury-Treated at scene
+191,190,UOF2021-114,subject_9612766,Use of Force,AC1,20210722,Physical Force-Restr.,Passive Resistance,,Male,Black,Within Policy,Completed,
+192,191,UOF2021-113,subject_9612767,Use of Force,AB3,20210725,Physical Force-Restr.,Passive Resistance,,Male,White,Within Policy,Completed,
+193,192,UOF2021-115,subject_9612773,Use of Force,AB3,20210729,Physical Force-Push,Active Resistance,,Male,Black,Within Policy,Completed,Minor Injury-No Treatment
+194,193,UOF2021-116,subject_9612775,Use of Force,AD2,20210730,Physical Force-Restr.,Passive Resistance,,Male,Hispanic,Within Policy,Completed,
+195,194,UOF2021-117,subject_9612782,Use of Force,AB3,20210806,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Completed,
+196,195,UOF2021-118,subject_9612752,Use of Force,AC1,20210806,Physical Force-Push,Passive Resistance,,Male,White,Within Policy,Completed,
+197,196,UOF2021-119,subject_9612645,Use of Force,AC1,20210810,Physical Force-Restr.,Active Resistance,,Female,White,Within Policy,Completed,
+198,197,UOF2021-120,subject_9612787,Use of Force,AC1,20210814,Physical Force-Struggle,Assaultive,,Male,White,Within Policy,Completed,Minor Injury-No Treatement
+199,198,UOF2021-121,subject_9612789,Use of Force,AA1,20210816,Physical Force-Restr.,Aggressive Resistance,,Male,White,Within Policy,Completed,Minor Injury-Treated at Hospital
+200,199,UOF2021-122,subject_9612791,Use of Force,AC1,20210818,Physical Force-Restr.,Active Resistance,,Male,Black,Within Policy,Completed,Treated at Scene
+201,200,UOF2021-125,subject_9612792,Use of Force,AA3,20210819,Physical Force-Struggle,Active Resistance,,Female,White,Within Policy,Within Policy,
+202,201,UOF2021-123,subject_9612793,Use of Force,AB4,20210820,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Completed,
+203,202,UOF2021-124,subject_9612795,Use of Force,AA2,20210821,Physical Force-Restr.,Active Resistance,,Female,White,Within Policy,Within Policy,
+204,203,UOF2021-126,subject_9612798,Use of Force,AC1,20210826,Physical Force-Restr.,Assaultive,Officer Injured,Male,White,Within Policy,Within Policy,
+205,204,UOF2021-127,subject_9612359,Use of Force,AC1,20210828,Physical Force-Restr.,Active Resistance,,Female,White,Within Policy,Within Policy,Minor Inury-No Treatment
+206,205,UOF2021-128,subject_9612799,Use of Force,AB4,20210830,Physical Force-Push,Active Resistance,,Male,White,Within Policy,Within Policy,
+207,206,UOF2021-129,subject_9612800,Use of Force,AC1,20210831,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Within Policy,
+208,207,UOF2021-130,subject_9612540,Use of Force,AB4,20210831,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Within Policy,
+209,208,UOF2021-131,subject_9611960,Use of Force,AD1,20210903,Physical Force-Struggle,Active Resistance,,Male,Black,Within Policy,Within Policy,
+210,209,UOF2021-132,subject_9612801,Use of Force,AC1,20210904,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Within Policy,
+211,210,UOF2021-133,subject_9612802,Use of Force,AD3,20210904,Physical Force-Struggle,Assaultive,,Female,Black,Within Policy,Within Policy,
+212,211,UOF2021-134,subject_9612806,Use of Force,AA4,20210907,Physical Force-Struggle,Assaultive,,Female,White,Within Policy,Within Policy,
+213,212,UOF2021-135,subject_9612467,Use of Force,AA1,20210907,Physical Force-Restr.,Passive Resistance,,Male,Black,Within Policy,Within Policy,
+214,213,UOF2021-136,subject_9612807,Use of Force,AB3,20210908,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Within Policy,
+215,214,UOF2021-137,subject_9612808,Use of Force,AB3,20210908,Physical Force-Struggle,Assaultive,Officer Injured,Male,White,Within Policy,Within Policy,
+216,215,UOF2021-138,subject_9612812,Use of Force,AC1,20210909,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+217,216,UOF2021-139,subject_9612814,Use of Force,AB3,20210909,Taser Deployment,Active Resistance,,Male,Black,Within Policy,Within Policy,
+218,217,UOF2021-140,subject_9612817,Use of Force,AD1,20210909,Physical Force-Restr.,Passive Resistance,,Female,White,Within Policy,Within Policy,
+219,218,UOF2021-141,subject_9612818,Use of Force,AB4,20210910,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+220,219,UOF2021-142,subject_9612819,Use of Force,AD3,20210912,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+221,220,UOF2021-143,subject_9612822,Use of Force,AC1,20210912,Physical Force-Struggle,Active Resistance,,Male,Black,Within Policy,Within Policy,
+222,221,UOF2021-144,subject_9612862,Use of Force,AA1,20210912,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+223,222,UOF2021-145,subject_9612823,Use of Force,AA4,20210914,Physical Force-Struggle,Assaultive,,Male,Black,Within Policy,Within Policy,
+224,223,UOF2021-146,subject_9612797,Use of Force,AB4,20210914,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+225,224,UOF2021-147,subject_9612829,Use of Force,AC1,20210919,Physical Force-Struggle,Active Resistance,,Male,Hispanic,Within Policy,Within Policy,
+226,225,UOF2021-148,subject_9612512,Use of Force,AB4,20210921,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+227,226,UOF2021-149,subject_9612831,Use of Force,AD1,20210922,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+228,227,UOF2021-150,subject_9612832,Use of Force,AC1,20210922,Physical Force-Restr.,Active Resistance,,Male,Black,Within Policy,Within Policy,
+229,228,UOF2021-151,subject_9612835,Use of Force,AA3,20210923,Physical Force-Struggle,Active Resistance,,Female,White,Within Policy,Within Policy,
+230,229,UOF2021-152,subject_9612847,Use of Force,AB3,20210924,Physical Force-Struggle,Active Resistance,,Male,White,Within Policy,Within Policy,
+231,230,UOF2021-153,subject_9612837,Use of Force,AD4,20210925,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Within Policy,
+232,231,UOF2021-154,subject_9612838,Use of Force,AA3,20210926,Physical Force-Struggle,Aggressive Resistance,,Male,White,Within Policy,Within Policy,
+233,232,UOF2021-155,subject_9612840,Use of Force,AC1,20210927,Physical Force-Restr.,Active Resistance,,Male,White,Within Policy,Within Policy,
+234,233,UOF2021-156,subject_9612842,Use of Force,AB4,20210927,Physical Force-Restr.,Passive Resistance,,Male,Black,Within Policy,Within Policy,
+235,234,UOF2021-157,subject_9612846,Use of Force,AB4,20210927,Physical Force-Struggle,Active Resistance,,Female,White,Within Policy,Within Policy,
+236,235,,subject_961,Use of Force,AC1,20211002,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+237,236,,subject_961,Use of Force,AA4,20211002,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Completed,
+238,237,RR-0000005,subject_9612860,Use of Force,AA2,20211005,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy,Completed,
+239,238,RR-0000006,subject_9611083,Use of Force,AB1,20211008,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,
+240,239,RR-0000007,subject_9612857,Use of Force,AB4,20211008,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Completed,Subject Injured-Treated at Hospital
+241,240,,subject_961,Use of Force,AA4,20211008,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Completed,
+242,241,,subject_961,Use of Force,AA3,20211009,Physical Force-Restraint,Passive Resistance,,Female,Black,Within Policy,Completed,
+243,242,RR-0000008,subject_9612995,Use of Force,AA1,20211011,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,Subject Injured
+244,243,,subject_961,Use of Force,AA1,20211011,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+245,244,RR-0000013,subject_9612865,Use of Force,AC1,20211012,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,Subject Injured
+246,245,RR-0000014,subject_9612871,Use of Force,AA1,20211015,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,
+247,246,RR-0000015,subject_9612869,Use of Force,AB4,20211016,Taser Deployment,Passive Resistance,,Male,White,Within Policy,Completed,
+248,247,,subject_961,Use of Force,AC2,20211021,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Completed,
+249,248,RR-0000016,subject_9612888,Use of Force,AA4,20211024,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Completed,Subject Injured-Treated at Hospital
+250,249,RR-0000019,subject_9612900,Use of Force,AB2,20211028,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Completed,
+251,250,RR-0000026,subject_961,Use of Force,Baker,20211028,Physical Force-Restraint,Passive Resistance,,Male,White,,,
+252,251,RR-0000024,subject_9612887,Use of Force,AC1,20211031,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,
+253,252,,subject_961,Use of Force,AA4,20211031,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+254,253,RR-0000020,subject_9612918,Use of Force,AA4,20211101,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+255,254,RR-0000022,subject_9612903,Use of Force,AA2,20211103,Physical Force-Restraint,Other,,Male,Black,Within Policy,Completed,
+256,255,RR-0000023,subject_9612891,Use of Force,AB3,20211103,Physical Force-Restraint,Assaultive Resistance,,Male,Black,Within Policy,Completed,Subject Injured-Treated at Hospital
+257,256,RR-0000025,subject_9612892,Use of Force,AC1,20211104,Physical Force-Restraint,Assaultive Resistance,,Male,Black,Within Policy,Completed,
+258,257,RR-0000027,subject_9612901,Use of Force,AC1,20211106,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Completed,
+259,258,RR-0000028,subject_9612200,Use of Force,AA1,20211107,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Completed,Subject Injured
+260,259,RR-0000029,subject_9612907,Use of Force,AC3,20211113,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy ,Completed,
+261,260,RR-0000030,subject_9612908,Use of Force,AA2,20211114,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Completed,
+262,261,RR-0000032,subject_9612912,Use of Force,AA1,20211118,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Completed,
+263,262,RR-0000034,subject_9611205,Use of Force,AA4,20211122,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Completed,
+264,263,RR-0000033,subject_9612926,Use of Force,AB3,20211124,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy ,Completed,Subject Injured-Treated at Hospital
+265,264,RR-0000036,subject_9612920,Use of Force,AD1,20211125,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Completed,Subject Injured-Treated at Hospital
+266,265,,subject_961,Use of Force,AB3,20211127,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+267,266,,subject_961,Use of Force,AD1,20211129,Physical Force,Aggressive Resistance,,Male,Black,Within Policy,Completed,
+268,267,RR-0000037,subject_9612939,Use of Force,AC2,20211201,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Completed,Subject Injured
+269,268,RR-0000039,subject_9612929,Use of Force,AA1,20211201,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Completed,
+270,269,,subject_961,Use of Force,AD1,20211201,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,
+271,270,,subject_961,Use of Force,AB1,20211205,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Completed,
+272,271,RR-0000041,subject_9612957,Use of Force,AB1,20211206,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Completed,Subject Injured-Treated at Hospital
+273,272,RR-0000040,subject_9612937,Use of Force,AB2,20211208,Physical Force-Restraint,Other,,Female,White,Within Policy ,Completed,Subject Injured-Treated at Hospital
+274,273,RR-0000043,subject_9612960,Use of Force,AB1,20211208,Physical Force-Restraint,Assaultive Resistance,,Male,Black,Within Policy,Completed,
+275,274,,subject_961,Use of Force,AB2,20211210,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+276,275,RR-0000045,subject_9612953,Use of Force,AB4,20211211,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Completed,
+277,276,RR-0000046,subject_9612955,Use of Force,AA1,20211211,Taser Deployment,Assaultive Resistance,,Male,White,Within Policy,Completed,Subject Injured
+278,277,RR-0000047,subject_9612945,Use of Force,AD3,20211211,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+279,278,RR-0000048,subject_9612950,Use of Force,AA1,20211211,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Completed,
+280,279,,subject_961,Use of Force,AA1,20211211,Physical Force,Aggressive Resistance,,Male,White,Within Policy,Completed,
+281,280,RR-0000050,subject_9612955,Use of Force,AA1,20211215,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+282,281,RR-0000052,subject_9613001,Use of Force,AD2,20211216,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,Subject Injured
+283,282,RR-0000053,subject_9613001,Use of Force,AD2,20211216,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,Subject Injured
+284,283,RR-0000054,subject_9612976,Use of Force,AA4,20211217,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,Subject Injured
+285,284,RR-0000055,subject_9612464,Use of Force,AC1,20211217,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Completed,
+286,285,,subject_961,Use of Force,AA4,20211217,Physical Force,Active Resistance,,Female,White,Within Policy,Completed,
+287,286,,subject_9613005,Use of Force,AA2,20211219,OC Deployment,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+288,287,RR-0000081,subject_9613005,Use of Force,AA2,20211219,Physical Force,Aggressive Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+289,288,RR-0000057,subject_9612968,Use of Force,AD3,20211220,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+290,289,,subject_961,Use of Force,AA2,20211220,Physical Force,Active Resistance,,Male,Black,Within Policy,Completed,
+291,290,,subject_961539,Use of Force,AA4,20211221,Physical Force,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+292,291,RR-0000082,subject_961539,Use of Force,AA4,20211221,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+293,292,RR-0000058,subject_9612999,Use of Force,AA2,20211224,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Completed,
+294,293,RR-0000060,subject_9612971,Use of Force,AC3,20211225,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Completed,
+295,294,RR-0000061,subject_9612977,Use of Force,AC1,20211228,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Completed,
+296,295,,subject_9612977,Use of Force,AC1,20211228,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,
+297,296,RR-0000062,subject_9612978,Use of Force,AA3,20211229,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Completed,Subject Injured-Treated at Hospital
+298,297,RR-0000063,subject_9612981,Use of Force,AD1,20211230,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+299,298,RR-0000065,subject_9612479,Use of Force,AB1,20211231,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,Subject Injured-Treated at Hospital
+300,299,RR-0000066,subject_9612985,Use of Force,AA4,20211231,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,Subject Injured
+301,300,RR-0000067,subject_9612968,Use of Force,AB3,20220102,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Completed,
+302,301,RR-0000067,subject_9612968,Use of Force,AB3,20220102,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+303,302,RR-0000069,subject_9612989,Use of Force,AD1,20220105,Physical Force-Restraint,Assaultive Resistance,,Female,Black,Within Policy,Closed,
+304,303,RR-0000071,subject_9612968,Use of Force,AD2,20220105,Physical Force,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+305,304,RR-0000072,subject_9612994,Use of Force,AC1,20220106,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+306,305,RR-0000074,subject_9612978,Use of Force,AB2,20220109,Physical Force,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+307,306,RR-0000075,subject_9613015,Use of Force,AA3,20220109,Physical Force,Aggressive Resistance,,Female,Black,Within Policy,Closed,
+308,307,RR-0000076,subject_9612672,Use of Force,AB3,20220115,Physical Force,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+309,308,RR-0000102,subject_9613116,Use of Force,AC1,20220115,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy,Closed,
+310,309,RR-0000102,subject_9613116,Use of Force,AC1,20220115,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy,Closed,
+311,310,RR-0000077,subject_9613006,Use of Force,AB1,20220118,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+312,311,RR-0000078,subject_9613007,Use of Force,AD1,20220120,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+313,312,RR-0000085,subject_9613008,Use of Force,AA2,20220125,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+314,313,RR-0000079,subject_9613009,Use of Force,AB1,20220127,Taser Deployment,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+315,314,RR-0000080,subject_9613010,Use of Force,AB3,20220128,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+316,315,RR-0000086,subject_9613014,Use of Force,AD1,20220201,,Passive Resistance,,Male,White,,,
+317,316,RR-0000087,subject_9613013,Use of Force,AB4,20220201,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+318,317,RR-0000088,subject_9612464,Use of Force,AC2,20220203,Physical Force-Restraint,Assaultive Resistance,,Female,Black,Within Policy,Closed,
+319,318,RR-0000089,subject_9613029,Use of Force,AA2,20220206,Taser Deployment,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+320,319,RR-0000090,subject_9613019,Use of Force,AC1,20220210,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+321,320,RR-0000091,subject_9613020,Use of Force,AB2,20220210,Physical Force,Assaultive Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+322,321,RR-0000092,subject_9613021,Use of Force,AC1,20220211,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+323,322,RR-0000093,subject_9613024,Use of Force,AD1,20220211,Show of Force,Passive Resistance,,Male,Black,Within Policy,Closed,
+324,323,RR-0000094,subject_9612512,Use of Force,AB3,20220213,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+325,324,RR-0000095,subject_9613042,Use of Force,AC2,20220217,Show of Force,Other,,Male,Black,Within Policy,Closed,
+326,325,RR-0000096,subject_9613031,Use of Force,AB4,20220222,Physical Force-Restraint,Assaultive Resistance,,Female,Asian,Within Policy,Closed,Subject Injured-Treated at Hospital
+327,326,RR-0000097,subject_9612510,Use of Force,AC1,20220222,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+328,327,RR-0000100,subject_9612200,Use of Force,AA1,20220225,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+329,328,RR-0000098,subject_9612464,Use of Force,AC1,20220226,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+330,329,RR-0000099,subject_9612793,Use of Force,AC3,20220226,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+331,330,RR-0000101,subject_9613041,Use of Force,AA4,20220226,Physical Force,Passive Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+332,331,RR-0000104,subject_9613048,Use of Force,AD1,20220303,Taser Deployment,Passive Resistance,,Male,Black,Within Policy,Closed,
+333,332,RR-0000109,subject_9613049,Use of Force,AB1,20220303,Physical Force-Restraint,Aggressive Resistance,Officer Injured,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+334,333,RR-0000105,subject_9613091,Use of Force,AA2,20220305,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,
+335,334,RR-0000106,subject_9613050,Use of Force,AC1,20220306,Physical Force-Restraint,Passive Resistance,,Female,Black,Within Policy,Closed,
+336,335,RR-0000107,subject_9613052,Use of Force,AB3,20220306,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,
+337,336,RR-0000112,subject_9613054,Use of Force,AB4,20220306,Physical Force,Active Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+338,337,RR-0000131,subject_9612782,Use of Force,AB3,20220306,Physical Force,Passive Resistance,,Male,White,Within Policy,Closed,
+339,338,RR-0000132,subject_9612924,Use of Force,AB3,20220306,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+340,339,RR-0000107,subject_9613052,Use of Force,AB3,20220306,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,
+341,340,RR-0000108,subject_9613114,Use of Force,AB1,20220307,Physical Force,Aggressive Resistance,,Male,White,Within Policy,Closed,
+342,341,RR-0000110,subject_9613062,Use of Force,AD1,20220307,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+343,342,RR-0000111,subject_9613063,Use of Force,AB1,20220307,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+344,343,RR-0000113,subject_9613055,Use of Force,AC1,20220311,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+345,344,RR-0000114,subject_9613058,Use of Force,AA1,20220312,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+346,345,RR-0000115,subject_9613061,Use of Force,AB3,20220314,Physical Force,Active Resistance,,Male,White,Within Policy,Closed,
+347,346,RR-0000117,subject_9613060,Use of Force,AA3,20220314,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+348,347,RR-0000115,subject_9613061,Use of Force,AB3,20220314,Physical Force,Active Resistance,,Female,White,Within Policy,Closed,
+349,348,RR-0000116,subject_961351,Use of Force,AB4,20220316,Physical Force-Restraint,Other,,Male,Black,Within Policy,Closed,
+350,349,RR-0000118,subject_9613075,Use of Force,AB4,20220316,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+351,350,RR-0000119,subject_9612315,Use of Force,AA4,20220317,Physical Force,Passive Resistance,,Male,Black,Within Policy,Closed,
+352,351,RR-0000125,subject_9613064,Use of Force,AB3,20220318,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+353,352,RR-0000121,subject_9612200,Use of Force,AA1,20220319,Taser Deployment,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+354,353,RR-0000122,subject_9612801,Use of Force,AC1,20220320,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+355,354,RR-0000124,subject_9613074,Use of Force,AD3,20220321,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+356,355,RR-0000126,subject_961934,Use of Force,AB2,20220324,Physical Force,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+357,356,RR-0000128,subject_9613079,Use of Force,AD1,20220324,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+358,357,RR-0000129,subject_9613083,Use of Force,AA3,20220324,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+359,358,RR-0000129,subject_9613083,Use of Force,AA3,20220324,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+360,359,RR-0000130,subject_9613081,Use of Force,AB3,20220326,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+361,360,RR-0000135,subject_9613115,Use of Force,AA4,20220328,Taser Deployment,Assaultive Resistance,,White,Black,Within Policy,Closed,
+362,361,RR-0000136,subject_9612512,Use of Force,AB4,20220328,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+363,362,RR-0000133,subject_9611283,Use of Force,AC1,20220330,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+364,363,RR-0000134,subject_9613093,Use of Force,AD1,20220330,Physical Force-Restraint,Other,,Female,White,Within Policy,Closed,Subject Injured
+365,364,RR-0000139,subject_9612419,Use of Force,AB2,20220401,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+366,365,RR-0000141,subject_9613085,Use of Force,AB3,20220401,Taser Deployment,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+367,366,RR-0000149,subject_96150,Use of Force,AA4,20220401,Taser Deployment,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+368,367,RR-0000155,subject_9613171,Use of Force,AC2,20220401,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+369,368,RR-0000158,subject_9613171,Use of Force,AC2,20220401,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+370,369,RR-0000142,subject_9613086,Use of Force,AC1,20220402,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+371,370,RR-0000140,subject_9612752,Use of Force,AD2,20220402,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+372,371,RR-0000143,subject_9613088,Use of Force,AB4,20220403,Physical Force-Restraint,Assaultive Resistance,,Male,Black,Within Policy,Closed,
+373,372,RR-0000144,subject_9613089,Use of Force,AB3,20220403,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+374,373,RR-0000146,subject_9613095,Use of Force,AD3,20220405,Physical Force-Restraint,Assaultive Resistance,,Female,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+375,374,RR-0000150,subject_9613101,Use of Force,AB1,20220408,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy,Closed,
+376,375,RR-0000152,subject_9613111,Use of Force,AB2,20220412,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+377,376,RR-0000153,subject_9613106,Use of Force,AB3,20220412,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+378,377,RR-0000159,subject_9613107,Use of Force,AB4,20220414,Physical Force-Restraint,Active Resistance,,Male,Other,Within Policy,Closed,Subject Injured
+379,378,RR-0000157,subject_9611017,Use of Force,AB4,20220416,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy ,Closed,
+380,379,RR-0000161,subject_9613127,Use of Force,AD4,20220421,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+381,380,RR-0000160,subject_9613122,Use of Force,AB4,20220421,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+382,381,RR-0000162,subject_9613132,Use of Force,AB1,20220424,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+383,382,RR-0000169,subject_9611974,Use of Force,AC2,20220424,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+384,383,RR-0000163,subject_9613128,Use of Force,AA4,20220425,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+385,384,RR-0000164,subject_9613129,Use of Force,AA4,20220425,Physical Force-Restraint,Passive Resistance,,Male,American Indian,Within Policy,Closed,Subject Injured-Treated at Hospital
+386,385,RR-0000165,subject_9613130,Use of Force,AA4,20220426,Physical Force-Restraint,Passive Resistance,Officer Injured,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+387,386,RR-0000167,subject_9612966,Use of Force,AA1,20220427,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+388,387,RR-0000170,subject_9613139,Use of Force,AD1,20220428,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+389,388,RR-0000171,subject_9613140,Use of Force,AA2,20220502,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+390,389,RR-0000174,subject_961406,Use of Force,AB3,20220502,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+391,390,RR-0000175,subject_9613146,Use of Force,AD1,20220504,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+392,391,RR-0000176,subject_9612876,Use of Force,AA2,20220506,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy,Closed,Subject Injured
+393,392,RR-0000179,subject_9613147,Use of Force,AC3,20220506,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+394,393,RR-0000180,subject_9613148,Use of Force,AC3,20220507,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+395,394,RR-0000182,subject_961,Use of Force,AA4,20220511,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+396,395,RR-0000183,subject_9613149,Use of Force,AA4,20220512,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+397,396,RR-0000184,subject_9612745,Use of Force,AA1,20220513,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+398,397,RR-0000185,subject_9613153,Use of Force,AC1,20220514,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+399,398,RR-0000186,subject_961850,Use of Force,AA4,20220515,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+400,399,RR-0000188,subject_9613155,Use of Force,AB4,20220517,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+401,400,RR-0000190,subject_961560,Use of Force,AA2,20220519,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+402,401,RR-0000191,subject_9613158,Use of Force,AC2,20220520,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+403,402,RR-0000192,subject_9612770,Use of Force,AA4,20220521,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+404,403,RR-0000194,subject_96122,Use of Force,AA1,20220521,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+405,404,RR-0000193,subject_9613162,Use of Force,AB4,20220522,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+406,405,RR-0000196,subject_9611283,Use of Force,AA1,20220523,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+407,406,RR-0000198,subject_9613166,Use of Force,AD1,20220526,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+408,407,RR-0000197,subject_9613118,Use of Force,AA4,20220526,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+409,408,RR-0000199,subject_9612200,Use of Force,AA4,20220527,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+410,409,RR-0000201,subject_9613167,Use of Force,AB1,20220528,Taser Deployment,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+411,410,RR-0000202,subject_9613179,Use of Force,AA4,20220528,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+412,411,RR-0000204,subject_9612017,Use of Force,AB1,20220602,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+413,412,RR-0000208,subject_9613178,Use of Force,AB3,20220603,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+414,413,RR-0000206,subject_9613192,Use of Force,AA1,20220604,Physical Force-Restraint,Passive Resistance,,Female,Other,Within Policy,Closed,
+415,414,RR-0000211,subject_9613186,Use of Force,AC1,20220614,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+416,415,RR-0000212,subject_9613187,Use of Force,AC3,20220615,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+417,416,RR-0000215,subject_9613196,Use of Force,AB3,20220617,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+418,417,RR-0000217,subject_9612247,Use of Force,AA1,20220622,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+419,418,RR-0000218,subject_9612752,Use of Force,AC1,20220623,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+420,419,RR-0000219,subject_9613200,Use of Force,AC1,20220623,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+421,420,RR-0000220,subject_9612966,Use of Force,AA4,20220625,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+422,421,RR-0000221,subject_9611974,Use of Force,AA4,20220625,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+423,422,RR-0000222,subject_9613204,Use of Force,AA4,20220626,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+424,423,RR-0000223,subject_9613205,Use of Force,AA1,20220627,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+425,424,RR-0000224,subject_9613207,Use of Force,AD3,20220628,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+426,425,RR-0000225,subject_9613206,Use of Force,AA1,20220628,Other,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+427,426,RR-0000226,subject_9613209,Use of Force,AB3,20220629,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+428,427,RR-0000227,subject_9613210,Use of Force,AB4,20220630,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+429,428,RR-0000228,subject_9613211,Use of Force,AC3,20220630,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+430,429,RR-0000247,subject_961233212,Use of Force,AA1,20220701,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+431,430,RR-0000230,subject_961233213,Use of Force,AA4,20220702,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+432,431,RR-0000231,subject_961233214,Use of Force,AC1,20220704,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy ,Closed,Subject Injured
+433,432,RR-0000232,subject_961233215,Use of Force,AC1,20220704,Physical Force-Restraint,Aggressive Resistance,Officer Injured,Male,White,Within Policy ,Closed,
+434,433,RR-0000242,subject_961233231,Use of Force,AA4,20220706,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+435,434,RR-0000234,subject_961233216,Use of Force,AA1,20220707,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy ,Closed,
+436,435,RR-0000233,subject_961233216,Use of Force,AA1,20220707,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy ,Closed,
+437,436,RR-0000235,subject_961233217,Use of Force,AB1,20220708,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+438,437,RR-0000236,subject_961233219,Use of Force,AB4,20220709,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+439,438,RR-0000237,subject_961233223,Use of Force,AD1,20220711,Physical Force-Restraint,Other,,Female,Black,Within Policy ,Closed,
+440,439,RR-0000266,subject_961233223,Use of Force,AD1,20220711,Physical Force-Restraint,Passive Resistance,,Female,Black,Within Policy ,Closed,Subject Injured
+441,440,RR-0000239,subject_961232801,Use of Force,AC1,20220713,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy ,Closed,
+442,441,RR-0000241,subject_961233229,Use of Force,AD3,20220714,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy ,Closed,
+443,442,RR-0000240,subject_961233225,Use of Force,AB4,20220716,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+444,443,RR-0000244,subject_961233233,Use of Force,AB4,20220718,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+445,444,RR-0000269,subject_961233272,Use of Force,AA3,20220802,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy ,Closed,Subject Injured
+446,445,RR-0000270,subject_961233274,Use of Force,AD4,20220802,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy ,Closed,
+447,446,RR-0000273,subject_961233285,Use of Force,AB1,20220806,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+448,447,RR-0000127,subject_9613077,Use of Force,AB4,20220830,Physical Force,Active Resistance,,Male,Black,Within Policy,Closed,
+449,448,RR-0000302,subject_961233320,Use of Force,AC2,20220902,Taser Deployment,Aggressive Resistance,,Male,White,Within Policy,Closed,
+450,449,RR-0000303,subject_961233081,Use of Force,AA4,20220902,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,Subject Injured
+451,450,RR-0000304,subject_961233212,Use of Force,AD1,20220903,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+452,451,RR-0000305,subject_961233319,Use of Force,AA2,20220903,Taser Deployment,Aggressive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+453,452,RR-0000306,subject_961233246,Use of Force,AC1,20220906,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+454,453,RR-0000307,subject_961233321,Use of Force,AC1,20220906,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+455,454,RR-0000309,subject_961232654,Use of Force,AC1,20220908,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+456,455,RR-0000311,subject_961233325,Use of Force,AA2,20220909,Taser Deployment,Aggressive Resistance,,Male,White,Not Within Policy,Closed,Subject Injured-Treated at Hospital
+457,456,RR-0000310,subject_961231083,Use of Force,AC1,20220909,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+458,457,RR-0000312,subject_961233326,Use of Force,AC1,20220909,Physical Force-Restraint,Other,,Male,Black,Within Policy,Closed,
+459,458,RR-0000327,subject_961129158,Use of Force,AB2,20220930,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy,Closed,
+460,459,RR-0000069,subject_9612989,Use of Force,AD1,1052022,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy,Completed,
+461,460,RR-0000245,subject_961233238,Use of Force,AC1,20220719,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+462,461,RR-0000246,subject_961233239,Use of Force,AB1,20220720,Physical Force-Restraint,Active Resistance,,Male,Other,Within Policy ,Closed,
+463,462,RR-0000248,subject_961233240,Use of Force,AA4,20220720,Physical Force-Restraint,Assaultive Resistance,,Male,Black,Within Policy ,Closed,
+464,463,RR-0000249,subject_961233242,Use of Force,AC4,20220721,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,Subject Injured-Treated at Hospital
+465,464,RR-0000253,subject_961233079,Use of Force,AB4,20220722,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy ,Closed,
+466,465,RR-0000254,subject_961233246,Use of Force,AC1,20220723,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+467,466,RR-0000255,subject_961233233,Use of Force,AA2,20220723,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+468,467,RR-0000256,subject_961233248,Use of Force,AB4,20220723,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+469,468,RR-0000257,subject_961233249,Use of Force,AB4,20220724,Physical Force,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+470,469,RR-0000258,subject_961231925,Use of Force,AC1,20220724,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+471,470,RR-0000261,subject_961233256,Use of Force,AB2,20220725,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+472,471,RR-0000259,subject_961233251,Use of Force,AB3,20220725,Physical Force-Restraint,Aggressive Resistance,,Female,Other,Within Policy ,Closed,Subject Injured-Treated at Hospital
+473,472,RR-0000260,subject_961232419,Use of Force,AC1,20220725,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+474,473,RR-0000263,subject_961233260,Use of Force,AB3,20220728,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy ,Closed,
+475,474,RR-0000264,subject_961233271,Use of Force,AB1,20220728,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy ,Closed,
+476,475,RR-0000267,subject_961232808,Use of Force,AD1,20220731,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+477,476,RR-0000268,subject_961233265,Use of Force,AB1,20220731,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+478,477,RR-0000274,subject_961233278,Use of Force,AA4,20220811,Taser Deployment,Passive Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+479,478,RR-0000275,subject_961233286,Use of Force,AD3,20220812,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+480,479,RR-0000276,subject_961233288,Use of Force,AA1,20220813,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+481,480,RR-0000277,subject_961233289,Use of Force,AD1,20220814,Physical Force-Restraint,Other,,Male,Black,Within Policy ,Closed,
+482,481,RR-0000279,subject_961233290,Use of Force,AD1,20220814,Physical Force-Restraint,Assaultive Resistance,Officer Injured,Female,Black,Within Policy ,Closed,Subject Injured-Treated at Hospital
+483,482,RR-0000280,subject_961233295,Use of Force,AA1,20220815,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+484,483,RR-0000281,subject_961233296,Use of Force,AB2,20220815,Physical Force-Restraint,Other,,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+485,484,RR-0000282,subject_961233297,Use of Force,AB3,20220817,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy ,Closed,
+486,485,RR-0000283,subject_961233298,Use of Force,AB1,20220817,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+487,486,RR-0000284,subject_961233299,Use of Force,AB4,20220818,Taser Deployment,Passive Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+488,487,RR-0000285,subject_961233309,Use of Force,AD2,20220819,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy ,Closed,
+489,488,RR-0000286,subject_961233300,Use of Force,AA4,20220819,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy ,Closed,
+490,489,RR-0000287,subject_961233301,Use of Force,AA1,20220821,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+491,490,RR-0000288,subject_961233302,Use of Force,AA2,20220822,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy ,Closed,
+492,491,RR-0000290,subject_961233303,Use of Force,AB3,20220823,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+493,492,RR-0000291,subject_961233306,Use of Force,AA4,20220823,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+494,493,RR-0000293,subject_961233310,Use of Force,AA2,20220824,Physical Force-Restraint,Other,,Female,White,Within Policy ,Closed,Show of Force
+495,494,RR-0000294,subject_961233307,Use of Force,AA2,20220824,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,Show of Force
+496,495,RR-0000295,subject_961232200,Use of Force,AA1,20220826,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+497,496,RR-0000296,subject_96123695269,Use of Force,AC3,20220826,Physical Force-Restraint,Active Resistance,,Male,Black,,,
+498,497,RR-0000298,subject_961233314,Use of Force,AA1,20220829,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+499,498,RR-0000127,subject_961233077,Use of Force,AB4,20220830,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+500,499,RR-0000299,subject_961232099,Use of Force,AD1,20220830,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+501,500,RR-0000301,subject_961233318,Use of Force,AC2,20220831,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+502,501,RR-0000313,subject_961233327,Use of Force,AA4,20220910,Taser Deployment,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+503,502,RR-0000314,subject_961233329,Use of Force,AB3,20220914,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+504,503,RR-0000316,subject_961233331,Use of Force,AC1,20220914,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+505,504,RR-0000317,subject_961233332,Use of Force,AA4,20220915,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+506,505,RR-0000318,subject_961231960,Use of Force,AC1,20220918,Physical Force-Restraint,Assaultive Resistance,,Male,Black,Within Policy,Closed,
+507,506,RR-0000319,subject_961233334,Use of Force,AC1,20220918,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+508,507,RR-0000320,subject_961233336,Use of Force,AB4,20220920,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+509,508,RR-0000323,subject_96123933,Use of Force,AA4,20220925,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,
+510,509,RR-0000324,subject_961233343,Use of Force,AB4,20220925,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+511,510,RR-0000325,subject_961233345,Use of Force,AC3,20220928,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+512,511,RR-0000326,subject_961233346,Use of Force,AB4,20220929,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+513,512,RR-0000328,subject_961132946,Use of Force,AC1,20221001,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+514,513,RR-0000329,subject_961135315,Use of Force,AC1,20221001,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy ,Closed,Subject Injured-Treated at Hospital
+515,514,RR-0000330,subject_961192660,Use of Force,AC1,20221001,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+516,515,RR-0000334,subject_961745873,Use of Force,AD1,20221008,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy ,Closed,
+517,516,RR-0000337,subject_961957438,Use of Force,AC1,20221010,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+518,517,RR-0000338,subject_961104614,Use of Force,AC2,20221010,Physical Force-Restraint,Active Resistance,Officer Injured,Female,Black,Within Policy ,Closed,Subject Injured
+519,518,RR-0000339,subject_961122348,Use of Force,AD1,20221010,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy ,Closed,
+520,519,RR-0000343,subject_961830162,Use of Force,AC1,20221021,Physical Force-Restraint,Passive Resistance,,Female,Black,Within Policy ,Closed,Subject Injured
+521,520,RR-0000344,subject_961908094,Use of Force,AC1,20221022,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy ,Closed,Subject Injured
+522,521,RR-0000346,subject_96117091,Use of Force,AB3,20221027,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy ,Closed,
+523,522,RR-0000347,subject_961161635,Use of Force,AD3,20221027,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+524,523,RR-0000349,subject_961177296,Use of Force,AB4,20221028,Taser Deployment,Active Resistance,,Male,Black,Within Policy ,Closed,
+525,524,RR-0000350,subject_961486016,Use of Force,AA1,20221029,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy ,Closed,
+526,525,RR-0000351,subject_961893441,Use of Force,AB1,20221101,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy ,Closed,
+527,526,RR-0000353,subject_961188222,Use of Force,AA4,20221101,Taser Deployment,Aggressive Resistance,,Male,White,Within Policy ,Closed,
+528,527,RR-0000354,subject_961429458,Use of Force,AA4,20221102,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+529,528,RR-0000355,subject_961771192,Use of Force,AD4,20221103,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+530,529,RR-0000356,subject_961148345,Use of Force,AB1,20221105,Physical Force-Restraint,Active Resistance,Officer Injured-Treated at Hospital,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+531,530,RR-0000358,subject_961268707,Use of Force,AB1,20221106,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+532,531,RR-0000359,subject_961300255,Use of Force,AA3,20221107,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+533,532,RR-0000360,subject_961675640,Use of Force,AB2,20221108,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+534,533,RR-0000363,subject_961486618,Use of Force,AB1,20221111,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy ,Closed,Subject Injured-Treated at Hospital
+535,534,RR-0000364,subject_961671144,Use of Force,AB4,20221116,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy ,Closed,
+536,535,RR-0000365,subject_96131151,Use of Force,AB4,20221117,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+537,536,RR-0000366,subject_961944783,Use of Force,AB3,20221122,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy ,Closed,
+538,537,RR-0000367,subject_961939,Use of Force,AB1,20221122,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy ,Closed,
+539,538,RR-0000370,subject_961720350,Use of Force,AB3,20221128,Physical Force-Restraint,Other,,Female,White,Within Policy ,Closed,Subject Injured-Treated at Hospital
+540,539,RR-0000372,subject_96139518,Use of Force,AC2,20221202,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+541,540,RR-0000373,subject_961242505,Use of Force,AD2,20221203,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+542,541,RR-0000374,subject_961413766,Use of Force,AC1,20221204,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy ,Closed,
+543,542,RR-0000375,subject_96127056,Use of Force,AB1,20221206,Physical Force-Restraint,Aggressive Resistance,Officer Injured,Male,Black,Within Policy ,Closed,Subject Injured-Treated at Hospital
+544,543,RR-0000376,subject_96144625,Use of Force,AC2,20221206,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+545,544,RR-0000377,subject_96192764,Use of Force,AC1,20221207,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+546,545,RR-0000333,subject_961832923,Use of Force,AC1,20221208,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+547,546,RR-0000378,subject_961600399,Use of Force,AB4,20221208,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+548,547,RR-0000379,subject_961746140,Use of Force,AC1,20221209,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+549,548,RR-0000380,subject_961917573,Use of Force,AB4,20221210,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+550,549,RR-0000381,subject_96154855,Use of Force,AD4,20221212,Physical Force-Restraint,Active Resistance,,Male,Other,Within Policy ,Closed,
+551,550,RR-0000382,subject_961284087,Use of Force,AB3,20221212,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy ,Closed,
+552,551,RR-0000385,subject_961402039,Use of Force,AA1,20221216,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+553,552,RR-0000386,subject_961499238,Use of Force,AB3,20221217,Physical Force-Restraint,Active Resistance,,Female,American Indian,Within Policy ,Closed,
+554,553,RR-0000387,subject_961869690,Use of Force,AC1,20221219,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+555,554,RR-0000388,subject_96194321,Use of Force,AB2,20221220,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+556,555,RR-0000389,subject_961591750,Use of Force,AB4,20221223,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+557,556,RR-0000390,subject_961690633,Use of Force,AB3,20221223,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy ,Closed,
+558,557,RR-0000391,subject_961702311,Use of Force,AD3,20221223,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+559,558,RR-0000392,subject_961721601,Use of Force,AA4,20221224,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+560,559,RR-0000394,subject_961152859,Use of Force,AC1,20221228,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+561,560,RR-0000395,subject_961309287,Use of Force,AB3,20221228,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy ,Closed,
+562,561,RR-0000396,subject_961331829,Use of Force,AB3,20221229,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+563,562,RR-0000478,subject_96144296,Use of Force,AD3,20230331,Taser Deployment,Active Resistance,,Male,White,Pending,Pending,Subject Injured
+564,563,RR-0000476,subject_961926485,Use of Force,AC1,20230331,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+565,564,RR-0000474,subject_961414008,Use of Force,AC3,20230329,Physical Force-Restraint,Other,,Male,White,Within Policy,Closed,
+566,565,RR-0000471,subject_961926071,Use of Force,AD1,20230328,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy,Closed,
+567,566,RR-0000473,subject_961138817,Use of Force,AB1,20230328,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+568,567,RR-0000470,subject_961923265,Use of Force,AA1,20230328,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+569,568,RR-0000469,subject_961910476,Use of Force,AA4,20230327,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+570,569,RR-0000466,subject_961897713,Use of Force,AB1,20230322,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+571,570,RR-0000465,subject_961500518,Use of Force,AC1,20230321,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+572,571,RR-0000463,subject_961959718,Use of Force,AA4,20230319,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+573,572,RR-0000462,subject_961905074,Use of Force,AA2,20230318,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+574,573,RR-0000464,subject_961980306,Use of Force,AA2,20230318,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+575,574,RR-0000461,subject_961898380,Use of Force,AB2,20230318,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+576,575,RR-0000460,subject_961811055,Use of Force,AC2,20230317,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+577,576,RR-0000459,subject_961781803,Use of Force,AA4,20230317,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+578,577,RR-0000458,subject_961269537,Use of Force,AA1,20230315,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+579,578,RR-0000457,subject_961678706,Use of Force,AA1,20230313,Physical Force-Restraint,Passive Resistance,,Male,Black,,,
+580,579,RR-0000456,subject_961346376,Use of Force,AC2,20230311,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+581,580,RR-0000454,subject_961726789,Use of Force,AC3,20230308,Taser Deployment,Aggressive Resistance,,Male,Black,Within Policy ,Closed,Subject Injured-Treated at Hospital
+582,581,RR-0000453,subject_961706409,Use of Force,AB1,20230301,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy ,Closed,
+583,582,RR-0000452,subject_961353976,Use of Force,AC2,20230228,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy ,Closed,
+584,583,RR-0000449,subject_961961301,Use of Force,AB3,20230221,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy ,Closed,
+585,584,RR-0000448,subject_961449880,Use of Force,AB3,20230215,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy ,Closed,
+586,585,RR-0000450,subject_961744101,Use of Force,AC1,20230215,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy ,Closed,
+587,586,RR-0000445,subject_961971793,Use of Force,AC1,20230215,Physical Force-Restraint,Assaultive Resistance,,Female,White,,,
+588,587,RR-0000444,subject_961709071,Use of Force,AC1,20230214,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+589,588,RR-0000447,subject_961426064,Use of Force,AC1,20230211,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+590,589,RR-0000443,subject_961414495,Use of Force,AC1,20230211,Physical Force-Restraint,Aggressive Resistance,,Male,Black,,,
+591,590,RR-0000441,subject_961103957,Use of Force,AA2,20230210,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+592,591,RR-0000442,subject_961244418,Use of Force,AC3,20230210,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+593,592,RR-0000440,subject_961853229,Use of Force,AD1,20230209,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+594,593,RR-0000439,subject_961775083,Use of Force,AA2,20230209,Physical Force-Restraint,Active Resistance,,Male,American Indian,Within Policy,Closed,
+595,594,RR-0000438,subject_961594984,Use of Force,AB3,20230208,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+596,595,RR-0000436,subject_961146179,Use of Force,AA4,20230208,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+597,596,RR-0000434,subject_961435361,Use of Force,AC1,20230203,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,
+598,597,RR-0000433,subject_961321266,Use of Force,AD1,20230203,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+599,598,RR-0000430,subject_961541656,Use of Force,AD3,20230201,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+600,599,RR-0000428,subject_961805704,Use of Force,AD1,20230131,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+601,600,RR-0000429,subject_961932618,Use of Force,AD1,20230131,Physical Force-Restraint,Other,,Male,Black,,,
+602,601,RR-0000426,subject_961826126,Use of Force,AD3,20230129,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+603,602,RR-0000425,subject_961666021,Use of Force,AA4,20230128,Taser Deployment,Active Resistance,,Male,Black,Within Policy,Closed,Subject Injured
+604,603,RR-0000422,subject_961213496,Use of Force,AC1,20230127,Physical Force-Restraint,Aggressive Resistance,Officer Injured,Female,White,Within Policy,Closed,
+605,604,RR-0000423,subject_961315224,Use of Force,AA1,20230127,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+606,605,RR-0000421,subject_961382640,Use of Force,AA3,20230125,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+607,606,RR-0000420,subject_961282662,Use of Force,AB4,20230125,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+608,607,RR-0000414,subject_961682594,Use of Force,AC1,20230120,Other,Other,,Male,White,Within Policy,Closed,
+609,608,RR-0000413,subject_961530432,Use of Force,AD2,20230120,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+610,609,RR-0000415,subject_961820262,Use of Force,AB3,20230119,Physical Force-Restraint,Other,,Male,White,,,
+611,610,RR-0000412,subject_961353852,Use of Force,AA3,20230119,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+612,611,RR-0000418,subject_961709148,Use of Force,AB2,20230118,Physical Force-Restraint,Active Resistance,,Female,Black,Within Policy,Closed,
+613,612,RR-0000411,subject_9619297,Use of Force,AC1,20230118,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+614,613,RR-0000409,subject_96184106,Use of Force,AB4,20230116,Taser Deployment,Aggressive Resistance,,Male,White,Within Policy,Closed,
+615,614,RR-0000410,subject_961179994,Use of Force,AB3,20230116,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+616,615,RR-0000406,subject_96178623,Use of Force,AB3,20230111,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+617,616,RR-0000405,subject_961843952,Use of Force,AD4,20230110,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+618,617,RR-0000403,subject_961123035,Use of Force,AA1,20230107,Physical Force-Restraint,Assaultive Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+619,618,RR-0000402,subject_96189106,Use of Force,AB1,20230106,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+620,619,RR-0000399,subject_961865377,Use of Force,AB2,20230102,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+621,620,RR-0000479,subject_961209937,Use of Force,AD2,20230401,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+622,621,RR-0000481,subject_961913454,Use of Force,AC3,20230404,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,Subject Injured
+623,622,RR-0000482,subject_961779562,Use of Force,AB1,20230407,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+624,623,RR-0000483,subject_961948222,Use of Force,AB1,20230408,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+625,624,RR-0000484,subject_961738723,Use of Force,AB1,20230415,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+626,625,RR-0000485,subject_961751254,Use of Force,AD1,20230416,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+627,626,RR-0000486,subject_961804299,Use of Force,AB1,20230416,Physical Force-Restraint,Passive Resistance,,Male,Black,Within Policy,Closed,
+628,627,RR-0000487,subject_961835940,Use of Force,AD3,20230416,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+629,628,RR-0000488,subject_961988860,Use of Force,AA2,20230417,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+630,629,RR-0000489,subject_961123353,Use of Force,AB4,20230417,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+631,630,RR-0000490,subject_961449054,Use of Force,AD2,20230418,Physical Force-Restraint,Assaultive Resistance,,Unknown,White,Within Policy,Closed,
+632,631,RR-0000491,subject_961001386,Use of Force,AD1,20230420,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+633,632,RR-0000492,subject_961067156,Use of Force,AB4,20230420,Physical Force-Restraint,Aggressive Resistance,Officer Injured,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+634,633,RR-0000494,subject_961046888,Use of Force,AD1,20230425,Physical Force-Restraint,Passive Resistance,,Male,Black,Pending,Pending,
+635,634,RR-0000495,subject_961770567,Use of Force,AA4,20230427,Taser Deployment,Aggressive Resistance,Officer Injured,Male,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+636,635,RR-0000496,subject_961099961,Use of Force,AD2,20230428,Physical Force-Restraint,Active Resistance,,Female,White,,,
+637,636,RR-0000497,subject_961270100,Use of Force,AA4,20230430,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy,Closed,Subject Injured-Treated at Hospital
+638,637,RR-0000499,subject_961945999,Use of Force,AC1,20230502,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+639,638,RR-0000500,subject_961010690,Use of Force,AC1,20230505,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+640,639,RR-0000501,subject_961187114,Use of Force,AD2,20230506,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+641,640,RR-0000502,subject_961224139,Use of Force,AB1,20230506,Taser Deployment,Passive Resistance,,Male,White,,,
+642,641,RR-0000503,subject_961224969,Use of Force,AD1,20230507,Physical Force-Restraint,Passive Resistance,,Male,White,,,Subject Injured
+643,642,RR-0000504,subject_961261744,Use of Force,AB3,20230507,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+644,643,RR-0000505,subject_961308876,Use of Force,AB1,20230507,Physical Force-Restraint,Passive Resistance,,Male,White,Within Policy,Closed,
+645,644,RR-0000503,subject_961324969,Use of Force,AD1,20230507,Physical Force-Restraint,Passive Resistance,,Female,White,,,
+646,645,RR-0000506,subject_961676725,Use of Force,AC1,20230509,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+647,646,RR-0000507,subject_961680459,Use of Force,AA2,20230509,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+648,647,RR-0000518,subject_961099412,Use of Force,AD1,20230509,Physical Force-Restraint,Active Resistance,,Male,White,,,
+649,648,RR-0000508,subject_961251873,Use of Force,AC1,20230510,Physical Force-Restraint,Aggressive Resistance,,Male,White,Within Policy,Closed,
+650,649,RR-0000510,subject_961554773,Use of Force,AA2,20230510,Physical Force-Restraint,Passive Resistance,,Unknown,White,Pending ,Pending,Subject Injured-Treated at Hospital
+651,650,RR-0000509,subject_961506209,Use of Force,AD1,20230511,Physical Force-Restraint,Assaultive Resistance,,Female,Black,Within Policy,Closed,
+652,651,RR-0000511,subject_961956810,Use of Force,AB3,20230513,Taser Deployment,Active Resistance,,Male,Black,Within Policy,Closed,
+653,652,RR-0000512,subject_961977094,Use of Force,AD1,20230513,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Within Policy,Closed,
+654,653,RR-0000513,subject_961986733,Use of Force,AA2,20230514,Physical Force,Aggressive Resistance,Officer Injured,Male,White,,,Subject Injured
+655,654,RR-0000514,subject_961029663,Use of Force,AB3,20230514,Physical Force-Restraint,Passive Resistance,,Female,White,Within Policy,Closed,
+656,655,RR-0000520,subject_961278255,Use of Force,AA2,20230514,Physical Force,Aggressive Resistance,Officer Injured,Male,White,,,Subject Injured
+657,656,RR-0000516,subject_961646379,Use of Force,AB4,20230516,Physical Force-Restraint,Aggressive Resistance,,Female,White,Within Policy,Closed,
+658,657,RR-0000519,subject_961258691,Use of Force,AD1,20230518,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+659,658,RR-0000521,subject_961629959,Use of Force,AC1,20230520,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+660,659,RR-0000522,subject_961641100,Use of Force,AC1,20230521,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+661,660,RR-0000524,subject_961004310,Use of Force,AA4,20230522,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Within Policy,Closed,
+662,661,RR-0000525,subject_961849449,Use of Force,AD2,20230525,Physical Force-Restraint,Aggressive Resistance,Officer Injured,Male,White,Pending,Pending,Subject Injured
+663,662,RR-0000526,subject_961190115,Use of Force,AA4,20230527,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+664,663,RR-0000527,subject_961237622,Use of Force,AB2,20230528,Physical Force-Restraint,Active Resistance,,Male,White,,,
+665,664,RR-0000528,subject_961239177,Use of Force,AB2,20230528,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+666,665,RR-0000529,subject_961323541,Use of Force,AC1,20230528,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+667,666,RR-0000531,subject_961432234,Use of Force,AB3,20230530,Physical Force-Restraint,Active Resistance,,Male,Black,Pending,Pending,Subject Injured-Treated at Hospital
+668,667,RR-0000532,subject_961443085,Use of Force,AA4,20230530,Physical Force-Restraint,Active Resistance,Officer Injured,Male,White,Within Policy,Closed,Subject Injured
+669,668,RR-0000533,subject_961771452,Use of Force,AA4,20230531,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,
+670,669,RR-0000534,subject_961865398,Use of Force,AB1,20230531,Physical Force-Restraint,Other,,Male,White,Pending,Pending,Subject Injured-Treated at Hospital
+671,670,RR-0000535,subject_961410255,Use of Force,AB1,20230601,Taser Deployment,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+672,671,RR-0000536,subject_961678893,Use of Force,AA2,20230603,Physical Force-Restraint,Active Resistance,,Female,Black,Pending,Pending,Subject Injured-Treated at Hospital
+673,672,RR-0000537,subject_961771254,Use of Force,AC1,20230603,Physical Force-Restraint,Assaultive Resistance,,Female,White,Pending,Pending,
+674,673,RR-0000539,subject_961980993,Use of Force,AA4,20230605,Physical Force-Restraint,Other,,Male,White,,,
+675,674,RR-0000540,subject_961173250,Use of Force,AC3,20230605,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+676,675,RR-0000542,subject_961770204,Use of Force,AB4,20230607,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured
+677,676,RR-0000543,subject_961415060,Use of Force,AC1,20230610,Other,Other,,Unknown,Unknown,,,
+678,677,RR-0000544,subject_961423366,Use of Force,AC1,20230610,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Pending,Pending,Subject Injured-Treated at Hospital
+679,678,RR-0000545,subject_961782323,Use of Force,AB3,20230616,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+680,679,RR-0000546,subject_961011565,Use of Force,AB3,20230616,Taser Deployment,Active Resistance,,Male,White,Pending,Pending,Subject Injured
+681,680,RR-0000549,subject_961167666,Use of Force,AC1,20230616,Physical Force-Restraint,Active Resistance,,Male,White,Within Policy,Closed,Subject Injured-Treated at Hospital
+682,681,RR-0000547,subject_961088253,Use of Force,AC1,20230617,Physical Force-Restraint,Other,,Male,Black,Within Policy,Closed,
+683,682,RR-0000547,subject_961388253,Use of Force,AC1,20230617,Physical Force-Restraint,Other,,Male,Black,Within Policy,Closed,
+684,683,RR-0000548,subject_961115646,Use of Force,AB1,20230618,Physical Force-Restraint,Assaultive Resistance,,Female,White,Pending,Pending,
+685,684,RR-0000550,subject_961277026,Use of Force,AC1,20230619,Physical Force-Restraint,Passive Resistance,,Male,White,Pending,Pending,
+686,685,RR-0000551,subject_961329216,Use of Force,AB3,20230619,Taser Deployment,Aggressive Resistance,,Male,White,Pending,Pending,Subject Injured
+687,686,RR-0000552,subject_961478417,Use of Force,AC1,20230620,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
+688,687,RR-0000553,subject_961986494,Use of Force,AB4,20230622,Physical Force-Restraint,Assaultive Resistance,,Female,White,Within Policy,Closed,
+689,688,RR-0000554,subject_961994080,Use of Force,AB1,20230622,Physical Force-Restraint,Passive Resistance,,Male,Black,,,
+690,689,RR-0000555,subject_961000091,Use of Force,AB1,20230622,Physical Force-Restraint,Passive Resistance,,Male,Black,Pending,Pending,
+691,690,RR-0000558,subject_961546698,Use of Force,AB3,20230624,Physical Force-Restraint,Active Resistance,,Female,White,Within Policy,Closed,
+692,691,RR-0000559,subject_961634592,Use of Force,AC1,20230625,Physical Force-Restraint,Aggressive Resistance,,Female,Black,Pending,Pending,
+693,692,RR-0000560,subject_961924418,Use of Force,AB1,20230626,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Pending,Pending,
+694,693,RR-0000561,subject_961103916,Use of Force,AB1,20230627,Physical Force-Restraint,Passive Resistance,,Male,White,Pending,Pending,
+695,694,RR-0000565,subject_961883911,Use of Force,AC1,20230627,Physical Force-Restraint,Aggressive Resistance,,Male,Black,Pending,Pending,
+696,695,RR-0000563,subject_961654621,Use of Force,AB1,20230629,Physical Force-Restraint,Active Resistance,,Male,White,Pending,Pending,Subject Injured-Treated at Hospital
+697,696,RR-0000564,subject_961871275,Use of Force,AB3,20230629,Physical Force-Restraint,Active Resistance,,Male,Black,Within Policy,Closed,
